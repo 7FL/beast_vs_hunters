@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dev\beast_vs_hunters\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\beast_vs_hunters\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BeastVsHuntersMenu.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BeastVsHuntersSc1.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dev\beast_vs_hunters\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\beast_vs_hunters\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\beast_vs_hunters\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\beast_vs_hunters\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BeastVsHuntersMenu.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BeastVsHuntersSc1.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\beast_vs_hunters\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Dev\beast_vs_hunters\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{46FA7572-73C8-3003-AD4A-98114A09D872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{CAD509B2-373B-36FC-AAB5-0393F221AB66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{EC3D2875-594B-303D-B057-8ABE4F3001A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{17031D25-4871-3E78-AFB0-DFD9D552297C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{ADAA3A42-E5D3-32AF-BEC6-F78CDFA1DF2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{E92BE072-B891-3F67-9CCB-A53A0C0A0598}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\arrowLeft50.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\beast128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\bush128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\flags128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\HelloWorld.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\hunter128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\trap128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+    <Image Include="..\Resources\wall128.png">
+      <Filter>Resources\res</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
